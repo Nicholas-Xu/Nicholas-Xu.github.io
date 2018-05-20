@@ -1,3 +1,3 @@
 # Nicholas-Xu.github.io
 
-Test
+just a test
